@@ -26,7 +26,7 @@ As a CTO, I lead a talented team of developers, guiding them in the implementati
 
 ## Get in Touch
 
-I'm always open to connecting with fellow tech enthusiasts and exploring new opportunities for collaboration. Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/walid-boudabbous) or via email at [w.boudabbous@dudoxx.com](mailto:w.boudabbous@dudoxx.com).
+I'm always open to connecting with fellow tech enthusiasts and exploring new opportunities for collaboration. Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/walid) or via email at [w.boudabbous@dudoxx.com](mailto:w.boudabbous@dudoxx.com).
 
 Thank you for visiting my GitHub profile. I look forward to sharing my projects and insights with you!
 
