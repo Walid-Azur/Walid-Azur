@@ -1,4 +1,4 @@
-cat Walid_README.md
+
 # Welcome to Walid-Azur's GitHub Profile
 
 ## About Me
